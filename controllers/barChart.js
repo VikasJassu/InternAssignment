@@ -1,4 +1,4 @@
-//code is pending to do
+//code is pending to do in this controller
 
 const APIData = require("../models/data");
 
